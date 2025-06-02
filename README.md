@@ -8,7 +8,7 @@ This tool can be extended for educational technology, literary analysis platform
 
 ---
 
-## 🔍 What It Does
+## What It Does
 
 - Ingests poetic text from a structured dataset.
 - Applies preprocessing steps to prepare data for modeling.
@@ -18,14 +18,14 @@ This tool can be extended for educational technology, literary analysis platform
 
 ---
 
-## 📁 Files
+## Files
 
 - `Final_DATA641.ipynb`: Jupyter notebook containing the complete workflow – from data loading and preprocessing to training, prediction, and evaluation.
 - `requirements.txt` *(to be added)*: Contains a list of required Python packages.
 
 ---
 
-## ⚙️ Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -36,9 +36,7 @@ pip install torch transformers datasets bitsandbytes
 
 ```
 
----
-
-## 📊 Interactive Report
+## Interactive Report
 
 Click the link below to explore the interactive Weights & Biases report with training metrics, model performance, and visual insights:
 
